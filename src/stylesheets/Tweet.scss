@@ -1,0 +1,63 @@
+#tweet-box {
+  margin-top: 7px;
+  margin-bottom:7px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: auto;
+  border: 3px solid black;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+#profile-photo {
+  width: 100px;
+  margin: 10px;
+}
+#tweet-p {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#user-info {
+  font-size: 18px;
+  font-family: 'Cutive Mono', monospace;
+}
+
+#username {
+  float: left;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+#screen-name {
+  color: #ADC6D5;
+}
+
+i {
+  margin-left: 15px;
+  color: #AAB8C2;
+  margin-bottom: 20px;
+}
+
+#active {
+  color: red;
+}
+
+#inactive {
+  color: #AAB8C2;
+}
+
+#rtd {
+  color: #19CF86;
+}
+
+#not-rtd {
+
+}
+
+.count {
+  font-size: 14px;
+  margin-left: 4px;
+}
